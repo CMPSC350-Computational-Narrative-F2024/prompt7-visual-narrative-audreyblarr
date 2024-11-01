@@ -20,7 +20,7 @@ def load_file(filename: str = "") -> str:
 
 # Function to generate image using DALL-E
 def generate_image_prompt(description):
-    response = openai.images.generate(
+    response = openai.Image.create(
         model="dall-e-3",
         prompt=description,
         n=1
@@ -43,7 +43,7 @@ def main():
     # Generate image
     image_url = generate_image_prompt(prompt)
 
-    num_images = 2
+    num_images = 12
     for i in range(num_images):
         image_prompt = f"{prompt} - Part {i + 1}"
         image_url = generate_image_prompt(image_prompt)

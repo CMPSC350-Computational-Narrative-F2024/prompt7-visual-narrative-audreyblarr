@@ -1,10 +1,37 @@
-# `TODO`: "Title Comic"
+# "The Chaotic Adventures of Cat and Mouse"
 
-`TODO`: Use `image` Markdown tags to sequence your images to create
-your overall narrative. These _may_ (should, kinda?) include some
-gesture toward text -- even if placed on the images by the author
-and not the generator.
+Cat was a quiet and tame housecat, all until Mouse showed up unannounced.
+![Cat and Mouse meeting](image_1.png)
 
-This comic should include at _least_ `12` images. Bonus points (not
-really, but you get the idea) for laying out or arranging a comic
-format.
+Cat immediately began to chase Mouse around the house.
+![Cat chasing Mouse](image_2.png)
+
+Looking at the mess Cat and Mouse made in their chase, they decide to team up to clean it up.
+![Cat and Mouse in a mess](image_3.png)
+
+Even the bathroom was a mess, with toilet paper everywhere.
+![Cat and Mouse in bathroom](image_4.png)
+
+After doing some cleaning, Cat and Mouse play with toys together, creating even more mess in the process.
+![Cat and Mouse playing](image_5.png)
+
+Mouse begins to get comfortable, finally approaching Cat herself and perching on her head.
+![Mouse on Cat's head](image_6.png)
+
+Mouse indulges in a quick snack of cheese, while Cat watches with jealousy as she's allergic to cheese.
+![Mouse with cheese](image_7.png)
+
+Through time spent together, Mouse begins to act like Cat, even growing in size to better match her.
+![Cat and Mouse running alongside](image_8.png)
+
+Mouse begins to mess with Cat's human's belongings, which is where Cat draws the line.
+![Mouse using mouse](image_9.png)
+
+Mouse turns out to excel greatly with technology, to Cat's surprise, and electronically draws a portrait of them together.
+![Cat and Mouse drawing](image_10.png)
+
+Cat admires Mouse as her new best friend, watching her play from afar.
+![Cat admiring Mouse](image_11.png)
+
+Cat is content with her new friendship, although they do need to stop making such messes!
+![Cat and Mouse comfortable](image_12.png)
