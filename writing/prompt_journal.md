@@ -1,0 +1,1 @@
+Generate images that display a friendly yet chaotic relationship between a cat and a mouse.
